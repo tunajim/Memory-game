@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/Memory-game/static/css/main.073c9b0a.css",
-    "main.js": "/Memory-game/static/js/main.b109e776.js",
+    "main.css": "/Memory-game/static/css/main.3e3d402e.css",
+    "main.js": "/Memory-game/static/js/main.e6497f28.js",
+    "static/media/Donald.png": "/Memory-game/static/media/Donald.34851a75a56729a3b4cb.png",
+    "static/media/Goofy.png": "/Memory-game/static/media/Goofy.709745f574434cf9dd99.png",
+    "static/media/Mickey.png": "/Memory-game/static/media/Mickey.2dbbee1d613668651b0f.png",
+    "static/media/Xehanort.png": "/Memory-game/static/media/Xehanort.70d3dbf3e0f60a47cac6.png",
+    "static/media/Sephiroth.png": "/Memory-game/static/media/Sephiroth.786bb07ad49f151619da.png",
+    "static/media/Sora.png": "/Memory-game/static/media/Sora.a271e6bd4517062ec535.png",
+    "static/media/Ventus.png": "/Memory-game/static/media/Ventus.9c6d9603bef5cc8b1538.png",
+    "static/media/Riku.png": "/Memory-game/static/media/Riku.8b8ff4caa03a8fd4fd40.png",
+    "static/media/Roxas.png": "/Memory-game/static/media/Roxas.6d98ec8e927ae2ae241f.png",
+    "static/media/Kairi.png": "/Memory-game/static/media/Kairi.9ff49863b0e0a6efa487.png",
+    "static/media/Ansem.png": "/Memory-game/static/media/Ansem.e4aed061ff30520c703f.png",
     "static/media/logo.svg": "/Memory-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Memory-game/index.html",
-    "main.073c9b0a.css.map": "/Memory-game/static/css/main.073c9b0a.css.map",
-    "main.b109e776.js.map": "/Memory-game/static/js/main.b109e776.js.map"
+    "main.3e3d402e.css.map": "/Memory-game/static/css/main.3e3d402e.css.map",
+    "main.e6497f28.js.map": "/Memory-game/static/js/main.e6497f28.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b109e776.js"
+    "static/css/main.3e3d402e.css",
+    "static/js/main.e6497f28.js"
   ]
 }
